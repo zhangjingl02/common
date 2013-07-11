@@ -9,6 +9,7 @@
 #define	COMMON_IO_OUTPUTSTREAM_H
 
 class OutputStream{
+    
 }
 
 #endif	/* OUTPUTSTREAM_H */
